@@ -1,0 +1,1 @@
+Practice creating a schema designed for a social network
